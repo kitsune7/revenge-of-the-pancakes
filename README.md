@@ -24,7 +24,8 @@ This project is created with:
 
 ```bash
 git clone https://github.com/kitsune7/revenge-of-the-pancakes
-npm ci
+cd revenge-of-the-pancakes
+npm install
 npm run build
 ```
 
@@ -33,6 +34,13 @@ npm run build
 ## Usage
 
 ```bash
-cd revenge-of-the-pancakes
 npm start
 ```
+
+After starting the program, type the number of test cases and press <Enter>.
+Then, for each test case, type any combination of + and -. Each test case is
+entered on a new line.
+
+When you've finished giving all the test cases, the program will output the
+minimum number of times each pancake must be flipped to have all the smiley
+faces facing up.
