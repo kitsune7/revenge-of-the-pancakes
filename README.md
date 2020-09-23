@@ -1,14 +1,18 @@
 # Revenge of the Pancakes
 
 [![MIT License][mit-license-image]][mit-license-url]
-![Dependency Status](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
+[![Dependency Status][dependency-status-image]][dependency-status-image]
+[![Build Status][build-status-image]][build-status-image]
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge built-with-love][built-with-love-image]](https://GitHub.com/Naereen/)
 
 A problem from a Google Code Jam project made available online in 2016
 
 [mit-license-url]: LICENSE
 [mit-license-image]: https://camo.githubusercontent.com/d59450139b6d354f15a2252a47b457bb2cc43828/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f6c2f7365727665726c6573732e737667
+[dependency-status-image]: https://img.shields.io/badge/dependencies-none-brightgreen.svg
+[build-status-image]: https://travis-ci.com/kitsune7/revenge-of-the-pancakes.svg?branch=master
+[built-with-love-image]: http://ForTheBadge.com/images/badges/built-with-love.svg
 
 See the [problem specification](documentation/ProblemSpec.md) for more details on the problem itself.
 
