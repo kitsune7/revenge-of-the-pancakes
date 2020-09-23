@@ -1,6 +1,9 @@
 # Revenge of the Pancakes
 
 [![MIT License][mit-license-image]][mit-license-url]
+![Dependency Status](https://img.shields.io/badge/dependencies-none-brightgreen.svg)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 A problem from a Google Code Jam project made available online in 2016
 
@@ -21,9 +24,11 @@ This project is created with:
 
 ```bash
 git clone https://github.com/kitsune7/revenge-of-the-pancakes
-npm install
+npm ci
 npm run build
 ```
+
+`npm ci` is used here instead of `npm install` in order to take advantage of `package-lock.json`.
 
 ## Usage
 

@@ -1,0 +1,3 @@
+language: node.js
+node_js: 14.x
+script: npm run test.ci

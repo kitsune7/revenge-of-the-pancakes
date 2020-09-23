@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node lib/index.js",
     "watch": "babel -w src --out-dir lib --extensions .ts",
-    "test": "jest",
+    "test": "jest --runInBand",
     "test.watch": "jest --watch",
     "test.ci": "npm run build && npm run lint && npm run test",
     "build": "npm run build.compile && npm run build.types",
