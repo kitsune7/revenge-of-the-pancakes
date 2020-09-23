@@ -31,7 +31,7 @@ This project is created with:
 ```bash
 git clone https://github.com/kitsune7/revenge-of-the-pancakes
 cd revenge-of-the-pancakes
-npm install
+npm ci
 npm run build
 ```
 
